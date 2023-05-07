@@ -69,7 +69,7 @@ def get_products(url):
         except:
             pass
 
-    return products[:10]   
+    return products
     
 def get_p1_categories(url):
     driver.get(url) 
@@ -122,6 +122,8 @@ p0_categories = {
 
 products = []
 
+my_data = {}
+
 for super_category in p0_categories:
     try:   
         super_category_link = p0_categories[super_category]
@@ -129,44 +131,51 @@ for super_category in p0_categories:
         p1_categories = get_p1_categories(super_category_link)
 
         print("Fetching for super category "+super_category)
+        my_data[super_category] = {}
         
         for category in p1_categories:
             category_link = p1_categories[category]
 
             print("Fetching for category "+category)
-            
+            my_data[super_category][category] = {}
             p2_categories = get_p2_categories(category_link)
             
             for sub_category in p2_categories:
                 sub_category_link = p2_categories[sub_category]
 
                 print("Fetching for subcategory "+sub_category)
-                print("fetching products...")
+                my_data[super_category][category][sub_category] = sub_category_link
                 
-                curr_products = get_products(sub_category_link)
-
-                ans = {}
-                for product in curr_products:
-                    ans["Super Category P0"] = super_category
-                    ans["Category P1"] = category
-                    ans["Sub Category P2"] = sub_category
-                    ans["SKU ID"] = product["SKU_ID"]
-                    ans["Image"] = product["Image"]
-                    ans["Brand"] = product["brand_name"]
-                    ans["SKU NAME"] = product["sku_name"]
-                    ans["SKU SIZE"] = product["sku_size"]
-                    ans["MRP"] = product["mrp"]
-                    ans["SP"] = product["sp"]
-                    ans["LINK"] = product["Link"]
-                    ans["Out of Stock?"] = product["Out of Stock?"]
-                    
-                    
-                products.append(ans)
     except:
         pass
     
+
+ans_data = []
+for super_category in my_data:
+    for category in my_data[super_category]:
+        for sub_category in my_data[super_category][category]:
+            sub_category_link = my_data[super_category][category][sub_category]
+            print(f"\n\n fetching products for {super_category} -> {category} -> {sub_category} \n\n")
+            products = get_products(sub_category_link)
+            ans = {}
+            for product in products:
+                ans["Super Category P0"] = super_category
+                ans["Category P1"] = category
+                ans["Sub Category P2"] = sub_category
+                ans["SKU ID"] = product["SKU_ID"]
+                ans["Image"] = product["Image"]
+                ans["Brand"] = product["brand_name"]
+                ans["SKU NAME"] = product["sku_name"]
+                ans["SKU SIZE"] = product["sku_size"]
+                ans["MRP"] = product["mrp"]
+                ans["SP"] = product["sp"]
+                ans["LINK"] = product["Link"]
+                ans["Out of Stock?"] = product["Out of Stock?"]
+                
+                ans_data.append(ans)  
+                    
 driver.quit()
 
 with open('output.txt', 'w') as convert_file:
-     convert_file.write(json.dumps(products))
+     convert_file.write(json.dumps(ans_data, indent=2))
      
