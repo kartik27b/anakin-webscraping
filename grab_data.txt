@@ -1,0 +1,1577 @@
+[
+  {
+    "name": "Jollibee - Biopolis",
+    "latlng": {
+      "latitude": 14.534186,
+      "longitude": 120.989026
+    }
+  },
+  {
+    "name": "Chowking - Caltex Aseana",
+    "latlng": {
+      "latitude": 14.52061,
+      "longitude": 120.99059
+    }
+  },
+  {
+    "name": "McDonald's - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.522836400000001,
+      "longitude": 120.9894302
+    }
+  },
+  {
+    "name": "Mang Inasal - Ayala Bay Mall",
+    "latlng": {
+      "latitude": 14.5233725,
+      "longitude": 120.9894195
+    }
+  },
+  {
+    "name": "KFC - Ayala Mall Bay",
+    "latlng": {
+      "latitude": 14.523536328571428,
+      "longitude": 120.9894272
+    }
+  },
+  {
+    "name": "Burger King - Macapagal Boulevard SB",
+    "latlng": {
+      "latitude": 14.5343409,
+      "longitude": 120.988962
+    }
+  },
+  {
+    "name": "BonChon - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5232481875,
+      "longitude": 120.98940287142857
+    }
+  },
+  {
+    "name": "Starbucks - 9 Macapagal Boulevard DT [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.527947,
+      "longitude": 120.989793
+    }
+  },
+  {
+    "name": "CoCo Fresh Tea & Juice - Ayala Manila Bay",
+    "latlng": {
+      "latitude": 14.52336926,
+      "longitude": 120.9871056
+    }
+  },
+  {
+    "name": "North Park - Macapagal Avenue [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.521720474999999,
+      "longitude": 120.99039950000001
+    }
+  },
+  {
+    "name": "Binalot - Ayala Malls [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.522535433333333,
+      "longitude": 120.98957863333334
+    }
+  },
+  {
+    "name": "Pepper Lunch - Ayala Malls Bay Area [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5232388,
+      "longitude": 120.9887039
+    }
+  },
+  {
+    "name": "Hot Star Large Fried Chicken - Aseana [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5209665,
+      "longitude": 120.99030314013362
+    }
+  },
+  {
+    "name": "Andok's - Domestic",
+    "latlng": {
+      "latitude": 14.5231971,
+      "longitude": 121.0003709
+    }
+  },
+  {
+    "name": "Hom - Sea Residences [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53339857,
+      "longitude": 120.986814
+    }
+  },
+  {
+    "name": "Army Navy Burger + Burrito - Scape Macapagal [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.533516,
+      "longitude": 120.98903942108153
+    }
+  },
+  {
+    "name": "Nanyang - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.522732076854519,
+      "longitude": 120.98836986196638
+    }
+  },
+  {
+    "name": "S&R New York Style Pizza - Aseana [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.529913,
+      "longitude": 120.991024
+    }
+  },
+  {
+    "name": "Pho Hoa Vietnamese Noodles House - Ayala Malls By The Bay",
+    "latlng": {
+      "latitude": 14.52311612,
+      "longitude": 120.9893432
+    }
+  },
+  {
+    "name": "Pizza Hut - Aseana [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52926792,
+      "longitude": 120.99172166666668
+    }
+  },
+  {
+    "name": "Popeyes - NU Mall of Asia [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.531109827003776,
+      "longitude": 120.98152200673044
+    }
+  },
+  {
+    "name": "Yellow Cab Pizza - Diosdado Macapagal [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53045391,
+      "longitude": 120.98926115
+    }
+  },
+  {
+    "name": "Shakey's Pizza - Aseana",
+    "latlng": {
+      "latitude": 14.5211376,
+      "longitude": 120.9904923
+    }
+  },
+  {
+    "name": "Paotsin - Waltermart W Mall Bay City [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5325543,
+      "longitude": 120.988965
+    }
+  },
+  {
+    "name": "Kuya J Restaurant - Ayala Bay Macapagal [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52361679,
+      "longitude": 120.9893533
+    }
+  },
+  {
+    "name": "Kenny Rogers Roasters - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523391700000001,
+      "longitude": 120.98878764386862
+    }
+  },
+  {
+    "name": "Turks - DD Meridian [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5361353,
+      "longitude": 120.9905627
+    }
+  },
+  {
+    "name": "Tokyo Tokyo - Ayala Bay Mall [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523748358536587,
+      "longitude": 120.98942068
+    }
+  },
+  {
+    "name": "Baliwag Lechon Manok - Seaside Paranaque [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.516800875000001,
+      "longitude": 120.9961692
+    }
+  },
+  {
+    "name": "Andok's Dine-In - Bay City",
+    "latlng": {
+      "latitude": 14.5224908,
+      "longitude": 120.9898458
+    }
+  },
+  {
+    "name": "David's Tea House - Aseana 3",
+    "latlng": {
+      "latitude": 14.52535943,
+      "longitude": 120.98970437
+    }
+  },
+  {
+    "name": "Kyukyu Ramen 99 - PITX",
+    "latlng": {
+      "latitude": 14.50920302,
+      "longitude": 120.9909616
+    }
+  },
+  {
+    "name": "Kenny Rogers Roasters - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523391700000001,
+      "longitude": 120.98878764386862
+    }
+  },
+  {
+    "name": "Tokyo Tokyo - Ayala Bay Mall [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523748358536587,
+      "longitude": 120.98942068
+    }
+  },
+  {
+    "name": "Baliwag Lechon Manok - Seaside Paranaque [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.516800875000001,
+      "longitude": 120.9961692
+    }
+  },
+  {
+    "name": "Highlands Coffee - Double Dragon Plaza",
+    "latlng": {
+      "latitude": 14.536483,
+      "longitude": 120.991371
+    }
+  },
+  {
+    "name": "Andok's Dine-In - Bay City",
+    "latlng": {
+      "latitude": 14.5224908,
+      "longitude": 120.9898458
+    }
+  },
+  {
+    "name": "David's Tea House - Aseana 3",
+    "latlng": {
+      "latitude": 14.52535943,
+      "longitude": 120.98970437
+    }
+  },
+  {
+    "name": "Tapa King - Aseana [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.529376,
+      "longitude": 120.98895
+    }
+  },
+  {
+    "name": "\u4e2d\u56fd\u897f\u5317\u62c9\u9762\u9986\uff08\u7092\u83dc \u5e72\u9505 \u6d77\u9c9c \u70e7\u70e4\uff09Chinese Beef Noodles House - Pasay",
+    "latlng": {
+      "latitude": 14.532974579875143,
+      "longitude": 120.98832391921633
+    }
+  },
+  {
+    "name": "Max's Restaurant - Ayala Mall Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52386076,
+      "longitude": 120.9887905
+    }
+  },
+  {
+    "name": "Hawker Chan - Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523496111111111,
+      "longitude": 120.98942861666667
+    }
+  },
+  {
+    "name": "Chimac Chicken & Beer - Aseana Square",
+    "latlng": {
+      "latitude": 14.521108,
+      "longitude": 120.990278
+    }
+  },
+  {
+    "name": "Genki Sushi - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52316607061708,
+      "longitude": 120.98809154232868
+    }
+  },
+  {
+    "name": "Farinas Ilocos Empanada - Salem",
+    "latlng": {
+      "latitude": 14.5231068,
+      "longitude": 121.0007323
+    }
+  },
+  {
+    "name": "My Thai Kitchen - Ayala Malls By The Bay",
+    "latlng": {
+      "latitude": 14.52313128,
+      "longitude": 120.9893329
+    }
+  },
+  {
+    "name": "De Original Jamaican Pattie Shop and Juice Bar \u2013 Double Dragon Plaza",
+    "latlng": {
+      "latitude": 14.53610922,
+      "longitude": 120.9908074
+    }
+  },
+  {
+    "name": "Botejyu - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523183,
+      "longitude": 120.98806
+    }
+  },
+  {
+    "name": "Tiu Bong Lugawan - Baclaran [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52625065,
+      "longitude": 120.9971595
+    }
+  },
+  {
+    "name": "King Chef - Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5232983,
+      "longitude": 120.9894025
+    }
+  },
+  {
+    "name": "The Sandwich Guy - Double Dragon",
+    "latlng": {
+      "latitude": 14.53596325,
+      "longitude": 120.9900897
+    }
+  },
+  {
+    "name": "Classic Savory - Ayala Malls Bay Area [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52379845,
+      "longitude": 120.9893855
+    }
+  },
+  {
+    "name": "Ate Len Tapsilogan - Don Carlos Village",
+    "latlng": {
+      "latitude": 14.533527252307934,
+      "longitude": 121.00049726607367
+    }
+  },
+  {
+    "name": "Blue Seas Seafood & Restaurant - Aseana Square [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.520735,
+      "longitude": 120.99033333333334
+    }
+  },
+  {
+    "name": "Shi Lin - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5226691,
+      "longitude": 120.9888356
+    }
+  },
+  {
+    "name": "Manam's Pancit Pancitan - Para\u00f1aque [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523206,
+      "longitude": 120.986971
+    }
+  },
+  {
+    "name": "Pancake House - Aseana [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5215137,
+      "longitude": 120.99024344583333
+    }
+  },
+  {
+    "name": "Serenitea - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.522914983251134,
+      "longitude": 120.98840048673323
+    }
+  },
+  {
+    "name": "Hokkaido Ramen Santouka - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52344549,
+      "longitude": 120.9877832
+    }
+  },
+  {
+    "name": "D' Classic Pares House - Airport Global Plaza",
+    "latlng": {
+      "latitude": 14.51717801,
+      "longitude": 120.994188
+    }
+  },
+  {
+    "name": "Yi Fang Taiwan Fruit Tea \u4e00\u82b3\u53f0\u7063\u6c34\u679c\u8336 - Phoenix [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.535379,
+      "longitude": 120.9873427
+    }
+  },
+  {
+    "name": "Aladdin Cafe - Domestic Road",
+    "latlng": {
+      "latitude": 14.523028,
+      "longitude": 121.000404
+    }
+  },
+  {
+    "name": "Lemon Square Bakery Treats - Baclaran [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.527754,
+      "longitude": 120.997097
+    }
+  },
+  {
+    "name": "Seattle's Best Coffee - Ayala Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.522447,
+      "longitude": 120.98887698571428
+    }
+  },
+  {
+    "name": "YOGOST - Ayala Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5225803,
+      "longitude": 120.98793135000001
+    }
+  },
+  {
+    "name": "Hightea - Salem Complex [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52338745,
+      "longitude": 121.0006808
+    }
+  },
+  {
+    "name": "Manam - Ayala Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5232252,
+      "longitude": 120.98699135714286
+    }
+  },
+  {
+    "name": "Tenya - Aseana [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5202119,
+      "longitude": 120.9904656
+    }
+  },
+  {
+    "name": "Nono's - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.522439352631578,
+      "longitude": 120.9887457
+    }
+  },
+  {
+    "name": "Cup Point Coffee by Sunnies Studios - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52268908,
+      "longitude": 120.9884401
+    }
+  },
+  {
+    "name": "Cafe Mary Grace - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52464388,
+      "longitude": 120.9891989
+    }
+  },
+  {
+    "name": "Wendy's - PITX [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.51115663,
+      "longitude": 120.9914433
+    }
+  },
+  {
+    "name": "Ramen Nagi - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5230918,
+      "longitude": 120.9878059
+    }
+  },
+  {
+    "name": "Kazukos Restaurant - Paranaque [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52729713,
+      "longitude": 120.9969236
+    }
+  },
+  {
+    "name": "Dunkin' - NAIA",
+    "latlng": {
+      "latitude": 14.527283,
+      "longitude": 120.9975468
+    }
+  },
+  {
+    "name": "Minute Burger - Baclaran",
+    "latlng": {
+      "latitude": 14.529464601011638,
+      "longitude": 120.99737913817454
+    }
+  },
+  {
+    "name": "Happy Lemon - Ayala Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5232801,
+      "longitude": 120.98943723333333
+    }
+  },
+  {
+    "name": "Cinnabon - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5224514,
+      "longitude": 120.9887666
+    }
+  },
+  {
+    "name": "Shaka Cafe - SM Moa Square [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53314236,
+      "longitude": 120.9829731
+    }
+  },
+  {
+    "name": "Mama Lou's Italian Kitchen - Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5231278,
+      "longitude": 120.98767000000001
+    }
+  },
+  {
+    "name": "Rice Rocket - Scape [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.533504342857142,
+      "longitude": 120.9890944
+    }
+  },
+  {
+    "name": "Selecta Ice Cream Shop - Thomas Caudio Baclaran",
+    "latlng": {
+      "latitude": 14.52618031,
+      "longitude": 120.99687
+    }
+  },
+  {
+    "name": "NGU YEN Vietnamese Kitchen - Tambo",
+    "latlng": {
+      "latitude": 14.5203355,
+      "longitude": 120.9966226
+    }
+  },
+  {
+    "name": "INS Tea & Bread - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5229833,
+      "longitude": 120.9893945
+    }
+  },
+  {
+    "name": "Gerry's Grill Restaurant & Bar - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52286246,
+      "longitude": 120.987637
+    }
+  },
+  {
+    "name": "Wright Wings - Scape Macapagal [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.533518,
+      "longitude": 120.98907833333332
+    }
+  },
+  {
+    "name": "Avocadoria.ph - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.522568,
+      "longitude": 120.988395
+    }
+  },
+  {
+    "name": "Chatime - WMall MOA [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.532297923076921,
+      "longitude": 120.98902375
+    }
+  },
+  {
+    "name": "Gong Cha - MAAX [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53119501327248,
+      "longitude": 120.98288927116437
+    }
+  },
+  {
+    "name": "Chili's - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5228366,
+      "longitude": 120.987816
+    }
+  },
+  {
+    "name": "Libertea Milktea - Scape Macapagal [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.533506349373434,
+      "longitude": 120.9891007
+    }
+  },
+  {
+    "name": "Ninetea Taiwanese Restaurant - Aseana Avenue",
+    "latlng": {
+      "latitude": 14.52273983,
+      "longitude": 120.9892086
+    }
+  },
+  {
+    "name": "Sichu Malatang - Double Dragon Plaza",
+    "latlng": {
+      "latitude": 14.5363239,
+      "longitude": 120.991514
+    }
+  },
+  {
+    "name": "Kumori Japanese Bakery and Cafe - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52235333,
+      "longitude": 120.988819
+    }
+  },
+  {
+    "name": "But First, Coffee - Phoenix",
+    "latlng": {
+      "latitude": 14.53529032,
+      "longitude": 120.9874561
+    }
+  },
+  {
+    "name": "Tim Hortons - Blue Bay Walk",
+    "latlng": {
+      "latitude": 14.5370366,
+      "longitude": 120.99072414999999
+    }
+  },
+  {
+    "name": "The Coffee Bean & Tea Leaf - W Mall",
+    "latlng": {
+      "latitude": 14.5321371,
+      "longitude": 120.98909582857144
+    }
+  },
+  {
+    "name": "Koomi - Double Dragon Plaza [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53595645,
+      "longitude": 120.9899992
+    }
+  },
+  {
+    "name": "Tokyo Milk Cheese Factory - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5231926,
+      "longitude": 120.9873629
+    }
+  },
+  {
+    "name": "Yardstick Coffee - MOA Square [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.532706,
+      "longitude": 120.982198
+    }
+  },
+  {
+    "name": "Mann Hann - Ayala Malls Bay Area [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523327329710146,
+      "longitude": 120.9886863
+    }
+  },
+  {
+    "name": "Hobing Korean Dessert Cafe & DragonT - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.52343002,
+      "longitude": 120.9892425
+    }
+  },
+  {
+    "name": "Hahn Restaurant Korean Grill & Cuisine - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.52247778,
+      "longitude": 120.9882214
+    }
+  },
+  {
+    "name": "Peri Peri Charcoal Chicken & Sauce Bar - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523427409044103,
+      "longitude": 120.9872116108973
+    }
+  },
+  {
+    "name": "Caramia Cakes & Gelato - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52238271,
+      "longitude": 120.9884015
+    }
+  },
+  {
+    "name": "Romantic Baboy - Double Dragon Plaza [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53595108,
+      "longitude": 120.9895269
+    }
+  },
+  {
+    "name": "RACKS - Aseana Square [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5203625,
+      "longitude": 120.99042383
+    }
+  },
+  {
+    "name": "Over Mango - W Mall Macapagal",
+    "latlng": {
+      "latitude": 14.532479,
+      "longitude": 120.989227
+    }
+  },
+  {
+    "name": "Chicken Chingu - NU Mall of Asia [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53122648,
+      "longitude": 120.9815396
+    }
+  },
+  {
+    "name": "Ate Rica's Bacsilog - PITX [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.51138039,
+      "longitude": 120.9914817
+    }
+  },
+  {
+    "name": "Auntie Anne's - Ayala Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.522427681040016,
+      "longitude": 120.98838468100413
+    }
+  },
+  {
+    "name": "The Orange Bucket - Double Dragon",
+    "latlng": {
+      "latitude": 14.53633784,
+      "longitude": 120.9904797
+    }
+  },
+  {
+    "name": "RBX Rice in A Box - PITX",
+    "latlng": {
+      "latitude": 14.51125309,
+      "longitude": 120.9914435
+    }
+  },
+  {
+    "name": "Cibo - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.5223856,
+      "longitude": 120.9881854
+    }
+  },
+  {
+    "name": "Mango Tree Cafe - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523141666666668,
+      "longitude": 120.98776317201555
+    }
+  },
+  {
+    "name": "Chicken Star - Baclaran",
+    "latlng": {
+      "latitude": 14.53323523,
+      "longitude": 120.9966033
+    }
+  },
+  {
+    "name": "Hap Chan - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5225784,
+      "longitude": 120.988887
+    }
+  },
+  {
+    "name": "Mesa - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523415133333334,
+      "longitude": 120.9893791
+    }
+  },
+  {
+    "name": "Jhundo Restaurant - Tambo [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.518258,
+      "longitude": 120.996389
+    }
+  },
+  {
+    "name": "Single Origin - IKEA [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53303202,
+      "longitude": 120.9827426
+    }
+  },
+  {
+    "name": "Fat Fook Taiwanese Kitchen - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5230711,
+      "longitude": 120.9876965
+    }
+  },
+  {
+    "name": "Gringo - Mall of Asia Complex [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5313033,
+      "longitude": 120.9841004
+    }
+  },
+  {
+    "name": "Samgyupsalamat - Salem",
+    "latlng": {
+      "latitude": 14.5232423,
+      "longitude": 121.0007268
+    }
+  },
+  {
+    "name": "Baked by Mary Grace - Baymall Kiosk [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52257834,
+      "longitude": 120.9891628
+    }
+  },
+  {
+    "name": "TuanTuan Kitchen - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5223774,
+      "longitude": 120.98824102857142
+    }
+  },
+  {
+    "name": "Max's Corner Bakery (Cakes, Breads & Pastries) - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.52345658,
+      "longitude": 120.9877562
+    }
+  },
+  {
+    "name": "Sharetea - Double Dragon Plaza [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5361591,
+      "longitude": 120.9908702
+    }
+  },
+  {
+    "name": "Corner Pizza - Ayala by the Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5233917,
+      "longitude": 120.9887876
+    }
+  },
+  {
+    "name": "Gugu Manju - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.522545,
+      "longitude": 120.989599
+    }
+  },
+  {
+    "name": "Mann Hann - Ayala Malls Bay Area [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523327329710146,
+      "longitude": 120.9886863
+    }
+  },
+  {
+    "name": "Katherine's Cafe - Ayala Manila Bay",
+    "latlng": {
+      "latitude": 14.522796,
+      "longitude": 120.987597
+    }
+  },
+  {
+    "name": "Sharetea - Double Dragon Plaza [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5361591,
+      "longitude": 120.9908702
+    }
+  },
+  {
+    "name": "R.Lapid's Chicharon & Barbecue - S&R Aseana [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52970894,
+      "longitude": 120.9899633
+    }
+  },
+  {
+    "name": "Cabalen - Ayala Mall By The Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52269225,
+      "longitude": 120.9888488
+    }
+  },
+  {
+    "name": "Coko Cafe - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52344052,
+      "longitude": 120.987687
+    }
+  },
+  {
+    "name": "TuanTuan Kitchen - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5223774,
+      "longitude": 120.98824102857142
+    }
+  },
+  {
+    "name": "SANTE by Zig - MOA Square [Available for LONG-DISTANCE DELIVERY",
+    "latlng": {
+      "latitude": 14.5323708,
+      "longitude": 120.9821468
+    }
+  },
+  {
+    "name": "Gringo - Mall of Asia Complex [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5313033,
+      "longitude": 120.9841004
+    }
+  },
+  {
+    "name": "Max's Corner Bakery (Cakes, Breads & Pastries) - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.52345658,
+      "longitude": 120.9877562
+    }
+  },
+  {
+    "name": "llaollao - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52373516,
+      "longitude": 120.9893263
+    }
+  },
+  {
+    "name": "Fely J's Kitchen - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.52304908,
+      "longitude": 120.9877007
+    }
+  },
+  {
+    "name": "Tako Depot - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52304,
+      "longitude": 120.989433
+    }
+  },
+  {
+    "name": "Auro Chocolate Cafe - Mall of Asia [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53319,
+      "longitude": 120.9829629
+    }
+  },
+  {
+    "name": "Motorino - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.522593642857142,
+      "longitude": 120.98762026666667
+    }
+  },
+  {
+    "name": "Samgyupsalamat - Salem",
+    "latlng": {
+      "latitude": 14.5232423,
+      "longitude": 121.0007268
+    }
+  },
+  {
+    "name": "390 Degrees - Aseana City",
+    "latlng": {
+      "latitude": 14.52626005,
+      "longitude": 120.9913286
+    }
+  },
+  {
+    "name": "It's Just Wings - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52458027,
+      "longitude": 120.9892142
+    }
+  },
+  {
+    "name": "Crisostomo - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.52494941985846,
+      "longitude": 120.98916320156201
+    }
+  },
+  {
+    "name": "Doodletea - Pasay",
+    "latlng": {
+      "latitude": 14.53190022,
+      "longitude": 121.0009605
+    }
+  },
+  {
+    "name": "Laurel's Bakehouse PH - Goodwill",
+    "latlng": {
+      "latitude": 14.51978776,
+      "longitude": 120.9984703
+    }
+  },
+  {
+    "name": "Modern Table 082 - City of Dreams Manila",
+    "latlng": {
+      "latitude": 14.52251547,
+      "longitude": 120.993061
+    }
+  },
+  {
+    "name": "Natural9 - Pearl Residences",
+    "latlng": {
+      "latitude": 14.52032834,
+      "longitude": 120.9966013
+    }
+  },
+  {
+    "name": "Horizon Cafe - Hotel 101 [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5355507607,
+      "longitude": 120.9877952032
+    }
+  },
+  {
+    "name": "Ginza Sushi - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.52304418,
+      "longitude": 120.9875342
+    }
+  },
+  {
+    "name": "Yokocho - Victory Food Market [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5322053,
+      "longitude": 120.9944727
+    }
+  },
+  {
+    "name": "Cibo - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.5223856,
+      "longitude": 120.9881854
+    }
+  },
+  {
+    "name": "K3 Hamburger - Pearl Plaza [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52098692,
+      "longitude": 120.99679613
+    }
+  },
+  {
+    "name": "Celebration Cakes & Platters by Mary Grace - Ayala Baymall [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5231957,
+      "longitude": 120.9878299
+    }
+  },
+  {
+    "name": "See U Everyday - Villamor Pasay",
+    "latlng": {
+      "latitude": 14.53264306,
+      "longitude": 120.9822269
+    }
+  },
+  {
+    "name": "Single Origin - IKEA [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53303202,
+      "longitude": 120.9827426
+    }
+  },
+  {
+    "name": "Betterdays - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5233759,
+      "longitude": 120.9893636
+    }
+  },
+  {
+    "name": "R&B Milk Tea - Aseana (Shakey's)",
+    "latlng": {
+      "latitude": 14.521391,
+      "longitude": 120.990733
+    }
+  },
+  {
+    "name": "Lucky Dragon Pearl Milk Tea - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5227245,
+      "longitude": 120.9892609
+    }
+  },
+  {
+    "name": "Yummy House Restaurant - Oceanaire Residences [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53288287,
+      "longitude": 120.9864836
+    }
+  },
+  {
+    "name": "FamilyMart - Monarch",
+    "latlng": {
+      "latitude": 14.52916002,
+      "longitude": 120.9882656
+    }
+  },
+  {
+    "name": "F Crafted Tea - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.522453599999999,
+      "longitude": 120.9888062
+    }
+  },
+  {
+    "name": "Pritopao - Ayala Mall Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.522754,
+      "longitude": 120.988813
+    }
+  },
+  {
+    "name": "Ice Krambol - Airport Road [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5273,
+      "longitude": 120.996879
+    }
+  },
+  {
+    "name": "Summer Vibes Cafe - Don Carlos Village Pasay",
+    "latlng": {
+      "latitude": 14.53029154,
+      "longitude": 120.9997984
+    }
+  },
+  {
+    "name": "Doner Bites Shawarma - Quirino Avenue",
+    "latlng": {
+      "latitude": 14.5302102,
+      "longitude": 120.99702074999999
+    }
+  },
+  {
+    "name": "Red Ribbon - Victory Food Market Baclaran",
+    "latlng": {
+      "latitude": 14.5322614,
+      "longitude": 120.9945967
+    }
+  },
+  {
+    "name": "Anongsaeyo D' Korean Fast Food - Pasay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53619081,
+      "longitude": 120.9912177
+    }
+  },
+  {
+    "name": "Pancit Ng Taga Malabon - Baclaran [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52884492,
+      "longitude": 120.9940383
+    }
+  },
+  {
+    "name": "Potato Corner - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.52299316,
+      "longitude": 120.9893711
+    }
+  },
+  {
+    "name": "Lydia's Lechon - Roxas Boulevard [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.529328,
+      "longitude": 120.9937389
+    }
+  },
+  {
+    "name": "El Bander Unli Wings - Salem International Complex [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523441929992956,
+      "longitude": 121.00019364418097
+    }
+  },
+  {
+    "name": "Geni's Table - Salem Complex [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523194,
+      "longitude": 121.000459
+    }
+  },
+  {
+    "name": "Lil' Orbits Mini Donuts - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.5224622,
+      "longitude": 120.9888435
+    }
+  },
+  {
+    "name": "Burger Burger - Baclaran",
+    "latlng": {
+      "latitude": 14.53201126,
+      "longitude": 120.99776366
+    }
+  },
+  {
+    "name": "Shou Hand-Pulled Noodles - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52245313,
+      "longitude": 120.9889101
+    }
+  },
+  {
+    "name": "Zhenbao Hotpot - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52347734,
+      "longitude": 120.9868422
+    }
+  },
+  {
+    "name": "Zagu - V & M Superette Baclaran",
+    "latlng": {
+      "latitude": 14.53011924,
+      "longitude": 120.99711478
+    }
+  },
+  {
+    "name": "Rong Hua Bak Kut Teh - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52316048,
+      "longitude": 120.9874436
+    }
+  },
+  {
+    "name": "Sorsogon Farm2Plates - PITX",
+    "latlng": {
+      "latitude": 14.510753865954925,
+      "longitude": 120.99123708465385
+    }
+  },
+  {
+    "name": "Ate J Food Hub - J. Gabriel Street [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.529077,
+      "longitude": 120.99645
+    }
+  },
+  {
+    "name": "Kusinath - Baclaran [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.529201430539743,
+      "longitude": 120.99870779888192
+    }
+  },
+  {
+    "name": "Suki Ya - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.5231957,
+      "longitude": 120.9878299
+    }
+  },
+  {
+    "name": "Chef Tony's Popcorn - Ayala Manila Bay",
+    "latlng": {
+      "latitude": 14.524474245467445,
+      "longitude": 120.98834927116405
+    }
+  },
+  {
+    "name": "Milli Tea - Phoenix [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.535622237818174,
+      "longitude": 120.9873602366859
+    }
+  },
+  {
+    "name": "Uncle Fish Balls Coffee Shop - Mezanine ",
+    "latlng": {
+      "latitude": 14.5335424,
+      "longitude": 120.9891352
+    }
+  },
+  {
+    "name": "More Than Milk - NU Mall of Asia [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53120222,
+      "longitude": 120.981558
+    }
+  },
+  {
+    "name": "Yukrev Bites - Baclaran",
+    "latlng": {
+      "latitude": 14.52859313,
+      "longitude": 120.9945625
+    }
+  },
+  {
+    "name": "Dairy Queen - Ayala Manila Bay",
+    "latlng": {
+      "latitude": 14.52243703,
+      "longitude": 120.9883898
+    }
+  },
+  {
+    "name": "J & G Fried Chicken and Gong Cha - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52338664,
+      "longitude": 120.9870477
+    }
+  },
+  {
+    "name": "Sibyullee Unlimited Korean BBQ - Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52293112,
+      "longitude": 120.9902953
+    }
+  },
+  {
+    "name": "Fiery Style - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.523104428571429,
+      "longitude": 120.9874815
+    }
+  },
+  {
+    "name": "Tealive - Ayala Manila Bay",
+    "latlng": {
+      "latitude": 14.52343957,
+      "longitude": 120.9877757
+    }
+  },
+  {
+    "name": "Pizza Bene - NU Mall of Asia [Available for LONG-DISTANCE DELIVERY",
+    "latlng": {
+      "latitude": 14.53093278,
+      "longitude": 120.9812965
+    }
+  },
+  {
+    "name": "Happy Jinju - Salem Complex [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523487684037022,
+      "longitude": 120.99991854232769
+    }
+  },
+  {
+    "name": "PICKUP COFFEE - Mall of Asia, Pasay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.53281514,
+      "longitude": 120.98220895
+    }
+  },
+  {
+    "name": "Bay City Cafe - Citadines Bay City [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5318704,
+      "longitude": 120.9883533
+    }
+  },
+  {
+    "name": "Bo's Coffee - Salem Complex [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5232423,
+      "longitude": 121.0007268
+    }
+  },
+  {
+    "name": "Lugang Cafe - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5223762,
+      "longitude": 120.9882196
+    }
+  },
+  {
+    "name": "I Love Milktea - Baclaran",
+    "latlng": {
+      "latitude": 14.533165397616926,
+      "longitude": 120.99365854232798
+    }
+  },
+  {
+    "name": "Macao Imperial Tea - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.5224639,
+      "longitude": 120.98890155714285
+    }
+  },
+  {
+    "name": "Chabucks Milktea Station - Tambo",
+    "latlng": {
+      "latitude": 14.5185856,
+      "longitude": 120.996427
+    }
+  },
+  {
+    "name": "Sisig Hooray - SM Supermarket MOA",
+    "latlng": {
+      "latitude": 14.53127336,
+      "longitude": 120.98367199
+    }
+  },
+  {
+    "name": "MERAKI by Oh My Greek - MOA Square [Available for LONG-DISTANCE DELIVERY",
+    "latlng": {
+      "latitude": 14.5323659,
+      "longitude": 120.9821527
+    }
+  },
+  {
+    "name": "Healthy Lemon - Rimas Baclaran",
+    "latlng": {
+      "latitude": 14.5319599,
+      "longitude": 120.9978158
+    }
+  },
+  {
+    "name": "Mares - Salem [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523283474061444,
+      "longitude": 121.00067708465707
+    }
+  },
+  {
+    "name": "101 Korean Hotdog - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.522449,
+      "longitude": 120.987594
+    }
+  },
+  {
+    "name": "Pad Thai To Go - Pasay",
+    "latlng": {
+      "latitude": 14.53147344,
+      "longitude": 120.9996777
+    }
+  },
+  {
+    "name": "Master Pares - Quirino Avenue",
+    "latlng": {
+      "latitude": 14.5279758,
+      "longitude": 120.9971847
+    }
+  },
+  {
+    "name": "Romantic Donkatsu - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.522897042857142,
+      "longitude": 120.9879474
+    }
+  },
+  {
+    "name": "Bag O' Shrimps - Ayala Malls Manila Bay",
+    "latlng": {
+      "latitude": 14.52319568,
+      "longitude": 120.9873386
+    }
+  },
+  {
+    "name": "Kambal Pandesal - Baclaran [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.52801338,
+      "longitude": 120.9971427
+    }
+  },
+  {
+    "name": "Bistro Charlemagne - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523019,
+      "longitude": 120.98773
+    }
+  },
+  {
+    "name": "Goldilocks - W Mall Pasay Bakeshop [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.532193799999998,
+      "longitude": 120.98905257142857
+    }
+  },
+  {
+    "name": "Coffee Project - Scape Building",
+    "latlng": {
+      "latitude": 14.533159021621621,
+      "longitude": 120.9889561
+    }
+  },
+  {
+    "name": "Mang Samgyupsal - Airport Road",
+    "latlng": {
+      "latitude": 14.527358456750505,
+      "longitude": 120.99498000000091
+    }
+  },
+  {
+    "name": "Tea Talk - Baclaran [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.527906,
+      "longitude": 120.99728
+    }
+  },
+  {
+    "name": "Chickings Restaurant - Ayala Malls Manila Bay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.523039835000002,
+      "longitude": 120.9870248625
+    }
+  },
+  {
+    "name": "Hage Grill House - Pasay [Available for LONG-DISTANCE DELIVERY]",
+    "latlng": {
+      "latitude": 14.514912,
+      "longitude": 121.002083
+    }
+  },
+  {
+    "name": "Samgyupkart - Baclaran",
+    "latlng": {
+      "latitude": 14.53198865,
+      "longitude": 120.99784434
+    }
+  },
+  {
+    "name": "Pad Thai To Go - Pasay",
+    "latlng": {
+      "latitude": 14.53147344,
+      "longitude": 120.9996777
+    }
+  }
+]
